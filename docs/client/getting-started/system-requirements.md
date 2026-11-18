@@ -1,6 +1,5 @@
 ---
-title: "What are the system requirements to run the Outline client?"
-sidebar_label: System requirements
+
 ---
 
 You are welcome to try Outline on any operating system. The following are the minimum required operating systems:
